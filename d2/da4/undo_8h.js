@@ -1,0 +1,26 @@
+var undo_8h =
+[
+    [ "yed_undo_action", "d5/d3b/structyed__undo__action.html", "d5/d3b/structyed__undo__action" ],
+    [ "yed_undo_record", "dc/dde/structyed__undo__record.html", "dc/dde/structyed__undo__record" ],
+    [ "yed_undo_history", "d3/d53/structyed__undo__history.html", "d3/d53/structyed__undo__history" ],
+    [ "UNDO_CONTENT", "d2/da4/undo_8h.html#a75c57f699d75bf82b28dcd4e05e322c8", null ],
+    [ "UNDO_DIFF", "d2/da4/undo_8h.html#a47bd84eced26e0573ef1cf764adae65d", null ],
+    [ "UNDO_GLYPH_ADD", "d2/da4/undo_8h.html#a51edf60776344521c3fb133bb6d34404", null ],
+    [ "UNDO_GLYPH_DEL", "d2/da4/undo_8h.html#a16d95a950c5daf304325f370162057ba", null ],
+    [ "UNDO_GLYPH_POP", "d2/da4/undo_8h.html#a1d7f57215d28bbde6ea557032c009378", null ],
+    [ "UNDO_GLYPH_PUSH", "d2/da4/undo_8h.html#ad5b240b50aef8729fcc9eddd8ba33c5e", null ],
+    [ "UNDO_LINE_ADD", "d2/da4/undo_8h.html#ac6986e491ab89a25c8a23a2a4998b747", null ],
+    [ "UNDO_LINE_DEL", "d2/da4/undo_8h.html#a81f63f2a4c2239e25d59f41c5aa68a2d", null ],
+    [ "yed_cancel_undo_record", "d2/da4/undo_8h.html#a2e38647ce6c1cc4ebf8e5196ccaf68e3", null ],
+    [ "yed_end_undo_record", "d2/da4/undo_8h.html#a6857b28ba4fb547b09fd3f4a96b37f3e", null ],
+    [ "yed_free_undo_history", "d2/da4/undo_8h.html#ae6e28966779f6d928203d4f0bac3ff09", null ],
+    [ "yed_get_undo_num_records", "d2/da4/undo_8h.html#aff391b7eff5b244b5292f8ecc6d64c73", null ],
+    [ "yed_merge_undo_records", "d2/da4/undo_8h.html#a87c72312e275ba4fdb3ee8171b40d6de", null ],
+    [ "yed_new_undo_history", "d2/da4/undo_8h.html#ab8191704a5d3334df59a4adb1e3cae29", null ],
+    [ "yed_num_undo_records", "d2/da4/undo_8h.html#a72133e13ed308ee46a37409f8c6ea8b9", null ],
+    [ "yed_push_undo_action", "d2/da4/undo_8h.html#ada5b6bd380c582b4cbee5d8e6af43dda", null ],
+    [ "yed_redo", "d2/da4/undo_8h.html#a7f77b78217d48d5c188f1aba172d82cd", null ],
+    [ "yed_reset_undo_history", "d2/da4/undo_8h.html#a7c8580b9ca6a57f72a9a0252f70dbe07", null ],
+    [ "yed_start_undo_record", "d2/da4/undo_8h.html#a58ebd37b32eb96fc64a0c19a7e2f3b40", null ],
+    [ "yed_undo", "d2/da4/undo_8h.html#ac8a6446d23739b87fcbefec1a00e09c0", null ]
+];

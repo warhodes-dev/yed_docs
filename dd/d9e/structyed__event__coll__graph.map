@@ -1,0 +1,13 @@
+<map id="yed_event" name="yed_event">
+<area shape="rect" id="node1" title=" " alt="" coords="313,515,396,541"/>
+<area shape="rect" id="node2" href="$d3/d59/structyed__frame__t.html" title=" " alt="" coords="91,424,186,451"/>
+<area shape="rect" id="node3" href="$db/d0f/structyed__frame__tree__t.html" title=" " alt="" coords="43,515,165,541"/>
+<area shape="rect" id="node4" href="$d5/d2d/structyed__buffer__t.html" title=" " alt="" coords="297,335,391,361"/>
+<area shape="rect" id="node5" href="$dc/d81/structbucket__array__t.html" title=" " alt="" coords="459,148,567,175"/>
+<area shape="rect" id="node6" href="$d1/d16/structarray__t.html" title=" " alt="" coords="358,5,421,32"/>
+<area shape="rect" id="node7" href="$d6/df3/structyed__line__t.html" title=" " alt="" coords="110,148,191,175"/>
+<area shape="rect" id="node9" href="$d3/d53/structyed__undo__history.html" title=" " alt="" coords="355,207,479,234"/>
+<area shape="rect" id="node10" href="$dc/dde/structyed__undo__record.html" title=" " alt="" coords="253,96,374,123"/>
+<area shape="rect" id="node8" href="$d2/d1d/structyed__range.html" title=" " alt="" coords="248,207,331,234"/>
+<area shape="rect" id="node11" href="$d6/df6/structyed__attrs.html" title=" " alt="" coords="149,335,225,361"/>
+</map>

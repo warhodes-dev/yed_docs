@@ -1,0 +1,12 @@
+<map id="yed_frame_t" name="yed_frame_t">
+<area shape="rect" id="node1" title=" " alt="" coords="165,395,259,421"/>
+<area shape="rect" id="node2" href="$db/d0f/structyed__frame__tree__t.html" title=" " alt="" coords="151,485,273,512"/>
+<area shape="rect" id="node3" href="$d5/d2d/structyed__buffer__t.html" title=" " alt="" coords="165,305,259,332"/>
+<area shape="rect" id="node4" href="$dc/d81/structbucket__array__t.html" title=" " alt="" coords="59,148,167,175"/>
+<area shape="rect" id="node5" href="$d1/d16/structarray__t.html" title=" " alt="" coords="183,5,246,32"/>
+<area shape="rect" id="node6" href="$d6/df3/structyed__line__t.html" title=" " alt="" coords="174,148,255,175"/>
+<area shape="rect" id="node8" href="$d3/d53/structyed__undo__history.html" title=" " alt="" coords="329,207,453,234"/>
+<area shape="rect" id="node9" href="$dc/dde/structyed__undo__record.html" title=" " alt="" coords="330,96,451,123"/>
+<area shape="rect" id="node7" href="$d2/d1d/structyed__range.html" title=" " alt="" coords="477,207,560,234"/>
+<area shape="rect" id="node10" href="$d6/df6/structyed__attrs.html" title=" " alt="" coords="283,305,359,332"/>
+</map>
